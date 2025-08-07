@@ -1,7 +1,7 @@
 📊 Data Analytics Portfolio – SQL, Excel & Power BI
 
 Welcome to my analytics portfolio! This repository features projects focused on SQL-based data cleaning and analysis, with more projects 
-on the way, including Excel dashboards and Power BI visualizations.
+on the way.
  
 ✅ Completed Projects
 
