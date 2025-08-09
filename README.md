@@ -1,47 +1,37 @@
-📊 Data Analytics Portfolio – SQL, Excel & Power BI
+📊 Data Analytics Portfolio
 
-Welcome to my analytics portfolio! This repository features projects focused on SQL-based data cleaning and analysis, with more projects 
-on the way.
- 
+Welcome to my Data Analytics Portfolio!
+
+This repository showcases a collection of projects centered around SQL-based data cleaning, querying, and real-world data analysis scenarios. Each project demonstrates practical problem-solving using SQL to extract meaningful insights and prepare datasets for decision-making.
+
 ✅ Completed Projects
+1. 🍽️ Restaurant Sales – Data Cleaning & SQL Queries
+A hands-on project simulating real-life restaurant management scenarios.
 
-1. 🧹 World Layoffs – Data Cleaning Project (SQL)
+🧹 Cleaned and standardized the sales dataset for accuracy and consistency.
+📊 Developed SQL queries to answer common operational questions a restaurant manager would ask, such as top-selling items, revenue trends, and customer preferences.
+
+2. 🧹 World Layoffs – Data Cleaning (SQL)
    
-This project focuses on cleaning a real-world dataset containing global layoff information. Key data preparation steps:
+Focused on preparing a global layoffs dataset for accurate analysis. Key steps included:
 
-•	🆔 Created a unique identifier to detect and remove duplicate records
+🆔 Created unique identifiers to detect and eliminate duplicate records.
+🧽 Removed incomplete or irrelevant rows and columns with missing data.
+🧾 Standardized text and date formats for consistency across the dataset.
+🚫 Properly handled NULL and blank values to ensure data integrity.
 
-•	🧽 Removed rows and columns with minimal or missing data
+This project highlights foundational data cleaning techniques crucial for reliable analytics.
 
-•	🧾 Standardized data formats for consistency (e.g., text casing, date formats)
-
-•	🚫 Handled NULL or blank values appropriately
-
-
-The goal was to prepare this dataset for accurate and insightful analysis by applying foundational data cleaning techniques.
- 
-2. 🎬 Film Rental Database – Data Analysis (SQL)
+3. 🎬 Film Rental Database – Data Analysis (SQL)
    
-An analytical project using a relational database containing information about customers, films, actors, and rentals. Key insights
-and queries include:
+An analytical exploration of a relational database with customer, film, actor, and rental information. Key analyses include:
+🎥 Identifying the most rented films and popular genres.
+👥 Examining customer rental behavior and trends.
+🌟 Highlighting top-billed actors and their impact on rentals.
 
-•	Most rented films
-
-•	Customer behavior and rental patterns
-
-•	Popular genres and top-billed actors
-
- 
 🚧 In Progress / Coming Soon
 
-•	📈 Additional SQL projects focusing on business metrics and performance analysis
-
-•	📊 Excel dashboards visualizing key KPIs and trends
-
-•	🧠 Power BI reports for dynamic and interactive insights
-
-
-Stay tuned – new uploads will appear here regularly!
-
+📈 Additional SQL projects focusing on business metrics, performance analysis, and data-driven decision making.
+Stay tuned for regular updates and new projects!
 
 
